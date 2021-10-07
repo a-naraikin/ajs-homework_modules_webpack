@@ -1,2 +1,2 @@
-## Домашняя работа «Модули» к курсу «Продвинутый Javascript»
+## Домашняя работа «Модули»
 netology_ajs-homeworks_modules_webpack
